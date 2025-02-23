@@ -5,7 +5,7 @@
 
 This project applies A/B testing techniques using Python to analyze the performance of two versions of a website (Group A - Control, Group B - Treatment). The goal is to determine whether the new version improves conversion rates.
 
-For a deeper understanding of A/B testing, check out my blog:
+For a deeper understanding of A/B testing, check out my blog: https://medium.com/@sriamirdhasudha/a-b-testing-in-marketing-with-python-1a50090401a8
 
 ---
 
